@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<!--script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script-->
+		<script src="http://d1pna5l3xsntoj.cloudfront.net/scripts/hello_retail_runtime.js"></script>
+		<!-- script type="text/javascript">
+			(function() {
+				var aws = document.createElement('script');
+				aws.type = 'text/javascript';
+				if (typeof(aws.async) != "undefined") { aws.async = true; }
+				aws.src = 'http://d1pna5l3xsntoj.cloudfront.net/scripts/company/awAddGift.js#0DF715781951CA303901B94DA9473B27';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(aws, s);
+			})();
+		</script-->
+	</head>
+	<body>
+		<input type="search"/>
+		<div id="results"></div>
+	</body>
+</html>
+
